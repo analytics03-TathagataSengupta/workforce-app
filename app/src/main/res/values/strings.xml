@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alcove Workforce</string>
+    <string name="home_url">https://employees.alcoverealty.in/p/workforce-intelligence/login</string>
+    <string name="no_internet_title">Unable to connect</string>
+    <string name="no_internet_msg">Please check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="select_file">Select file</string>
+    <string name="downloading">Downloading…</string>
+    <string name="press_back_again">Press back again to exit</string>
+</resources>
